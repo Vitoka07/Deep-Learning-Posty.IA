@@ -1,6 +1,7 @@
 # Postly.IA
 
-![capa-dl](https://github.com/user-attachments/assets/ab354a56-8969-4c74-9bb3-b9fcf6f641ce)
+![capa-dl](https://github.com/user-attachments/assets/4ac2d3b0-b344-4e57-89a2-7e1a81472437)
+
 # Sobre o projeto
 
 Postly.IA é uma aplicação que utiliza modelos de Deep Learning para gerar automaticamente postagens publicitárias voltadas para redes sociais, a partir de imagens ou textos fornecidos pelo usuário. O objetivo é auxiliar pequenas e médias empresas a criarem conteúdos de qualidade com agilidade, criatividade e foco no público-alvo.
