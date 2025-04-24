@@ -18,9 +18,8 @@ O usuário pode selecionar uma área temática (como Comida, Esporte, Viagem ou 
 ![Foto 1](https://github.com/user-attachments/assets/dc98f374-8961-48d4-84a6-69dfc3f96a11)
 
 
-(Utilizando Texto para gerar o anúncio ✏️)
+(Utilizando Texto para gerar o anúncio com a imagem ✏️)
 ![Foto](https://github.com/user-attachments/assets/7949c6ce-dfd3-4fbc-b309-210e85e71380)
-
 
 
 ## Tecnologias Utilizadas 👨‍💻:
