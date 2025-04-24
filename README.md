@@ -15,10 +15,12 @@ A aplicação integra modelos da Hugging Face para geração de imagens, descri�
 O usuário pode selecionar uma área temática (como Comida, Esporte, Viagem ou Vestuário), escolher entre fornecer uma imagem ou texto, e receberá como retorno uma sugestão de anúncio pronto para redes sociais, com imagem e frase gerada automaticamente.
 
 (Utilizando Imagem para gerar o anúncio 📢)
-![WhatsApp Image 2025-01-31 at 21 07 33](https://github.com/user-attachments/assets/2aaa77c5-cad3-4e79-959b-898267c43d03)
+![Foto 1](https://github.com/user-attachments/assets/dc98f374-8961-48d4-84a6-69dfc3f96a11)
+
 
 (Utilizando Texto para gerar o anúncio ✏️)
-![Foto](https://github.com/user-attachments/assets/f8b3f0d4-fb8f-4b04-ab40-2929dfc75e4e)
+![Foto](https://github.com/user-attachments/assets/7949c6ce-dfd3-4fbc-b309-210e85e71380)
+
 
 
 ## Tecnologias Utilizadas 👨‍💻:
