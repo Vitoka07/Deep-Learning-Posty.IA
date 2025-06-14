@@ -31,9 +31,6 @@ O usuário pode selecionar uma área temática (como Comida, Esporte, Viagem ou 
 No terminal (recomenda-se o uso do VSCode), execute:
 
 ```bash
-# development
-$ pip install -r requirements.txt
-
 ## Executando o projeto
 
 $ streamlit run app.py
